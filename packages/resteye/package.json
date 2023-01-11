@@ -1,6 +1,6 @@
 {
   "name": "resteye",
-  "version": "1.0.0",
+  "version": "0.0.1-dev",
   "description": "An express-inspired framework for building RESTful APIs",
   "main": "dist/lib.js",
   "scripts": {
