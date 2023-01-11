@@ -2,7 +2,15 @@
   "name": "resteye",
   "version": "0.0.1-dev",
   "description": "An express-inspired framework for building RESTful APIs",
-  "main": "dist/lib.js",
+  "main": "./dist/lib.js",
+  "types": "./dist/lib.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/lib.d.ts",
+      "default": "./dist/lib.js"
+    },
+    "./package.json": "./package.json"
+  },
   "scripts": {
     "test": "jest"
   },
