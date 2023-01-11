@@ -1,0 +1,25 @@
+{
+  "name": "resteye",
+  "version": "1.0.0",
+  "description": "An express-inspired framework for building RESTful APIs",
+  "main": "dist/lib.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/resteye/resteye.git"
+  },
+  "keywords": [
+    "resteye",
+    "express",
+    "rest",
+    "api"
+  ],
+  "author": "Frolleks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/resteye/resteye/issues"
+  },
+  "homepage": "https://github.com/resteye/resteye#readme"
+}
