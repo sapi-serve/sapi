@@ -1,0 +1,10 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "node .",
+    "build": "tsc -p tsconfig.json"
+  },
+  "license": "MIT"
+}
