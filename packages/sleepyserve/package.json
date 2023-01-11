@@ -1,5 +1,5 @@
 {
-  "name": "resteye",
+  "name": "sleepyserve",
   "version": "0.0.1-dev",
   "description": "An express-inspired framework for building RESTful APIs",
   "main": "./build/index.js",
@@ -18,10 +18,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/resteye/resteye.git"
+    "url": "git+https://github.com/sleepyserve/sleepyserve.git"
   },
   "keywords": [
-    "resteye",
+    "sleepyserve",
     "express",
     "rest",
     "api"
@@ -29,9 +29,9 @@
   "author": "Frolleks",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/resteye/resteye/issues"
+    "url": "https://github.com/sleepyserve/sleepyserve/issues"
   },
-  "homepage": "https://github.com/resteye/resteye#readme",
+  "homepage": "https://github.com/sleepyserve/sleepyserve#readme",
   "files": [
     "./package.json",
     "./README.md",

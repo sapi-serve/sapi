@@ -1,3 +1,3 @@
-import { resteye } from "resteye";
+import { sleepyserve } from "sleepyserve";
 
-resteye();
+sleepyserve();

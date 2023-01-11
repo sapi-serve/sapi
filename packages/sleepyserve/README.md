@@ -1,4 +1,4 @@
-# resteye
+# sleepyserve
 
 [![npm version](https://badge.fury.io/js/resteye.svg)](https://badge.fury.io/js/resteye)
 

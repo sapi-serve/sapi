@@ -1,3 +1,3 @@
-const { resteye } = require("resteye");
+const { sleepyserve } = require("sleepyserve");
 
-resteye();
+sleepyserve();
