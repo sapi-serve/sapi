@@ -12,6 +12,8 @@
     "./package.json": "./package.json"
   },
   "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "publish": "npm publish",
     "test": "jest"
   },
   "repository": {
@@ -29,5 +31,10 @@
   "bugs": {
     "url": "https://github.com/resteye/resteye/issues"
   },
-  "homepage": "https://github.com/resteye/resteye#readme"
+  "homepage": "https://github.com/resteye/resteye#readme",
+  "files": [
+    "./package.json",
+    "./README.md",
+    "./build/"
+  ]
 }
