@@ -2,12 +2,12 @@
   "name": "resteye",
   "version": "0.0.1-dev",
   "description": "An express-inspired framework for building RESTful APIs",
-  "main": "./dist/lib.js",
-  "types": "./dist/lib.d.ts",
+  "main": "./build/index.js",
+  "types": "./build/index.d.ts",
   "exports": {
     ".": {
-      "types": "./dist/lib.d.ts",
-      "default": "./dist/lib.js"
+      "types": "./build/index.d.ts",
+      "default": "./build/index.js"
     },
     "./package.json": "./package.json"
   },
